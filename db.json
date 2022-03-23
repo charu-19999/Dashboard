@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "firstName": "charu",
+      "lastName": "gupta",
+      "Email": "charugupta@gmail.com",
+      "Mobile": "983773882",
+      "Temporary": "bloc-i , house no-6578, log road delhi ",
+      "Permanent": "bloc-i , house no-6578, log road delhi ",
+      "Designation": "software engineer ",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
